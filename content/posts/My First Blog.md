@@ -1,5 +1,5 @@
 ---
-title: blogtitle
+title: My First Blog(Test)
 date: 2024-11-06
 draft: false
 tags:
