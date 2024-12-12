@@ -28,11 +28,5 @@
   </url><url>
     <loc>https://examplesite.com/tags/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/posts/post/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
 </urlset>

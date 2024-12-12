@@ -27,12 +27,5 @@
       <guid>https://examplesite.com/tags/tag2/</guid>
       <description></description>
     </item>
-    <item>
-      <title>First</title>
-      <link>https://examplesite.com/tags/first/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://examplesite.com/tags/first/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
