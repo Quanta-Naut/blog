@@ -11,4 +11,4 @@ categories:
 ---
 
 This is my first blog post.
-!![Image Description](/images/Pasted%20image%2020241128160033.png)
+!![Image Description](/images/img1.png)
