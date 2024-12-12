@@ -71,7 +71,7 @@ buildExpired = false
 
   [params.homeInfoParams]
     Title = "The Quantum Quill"
-    Content = "Welcome to Quantum Quill—a space where I share my journey through the exciting worlds of programming, engineering, and rocketry! Here, you'll find detailed updates on my projects, including building rockets from the ground up, exploring the wonders of space tech, and diving into the challenges of programming. Join me as I document my progress, share insights, and celebrate the joy of creating and innovating!"
+    Content = "Welcome to Quantum Quill — I'm Tarun Kumar S. This is the space where I share my journey through the exciting worlds of programming, engineering, and rocketry! Here, you'll find detailed updates on my projects, including building rockets from the ground up, exploring the wonders of space tech, and diving into the challenges of programming. Join me as I document my progress, share insights, and celebrate the joy of creating and innovating!"
 
   [[params.socialIcons]]
     name = "LinkedIn"
