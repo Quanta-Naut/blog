@@ -14,12 +14,22 @@
     <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://quanta-naut.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Blog(Test)</title>
+      <title>My First Blog!!!</title>
       <link>https://quanta-naut.github.io/posts/my-first-blog/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://quanta-naut.github.io/posts/my-first-blog/</guid>
-      <description>&lt;p&gt;This is my first blog post.
-!&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;../img1.png&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Blast Off! Welcome to My Journey of Rockets and Code&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Welcome to my blog! I’m thrilled to share my projects, passion, and progress in the exciting worlds of rocketry and programming. This space will be a blend of technical insights, creative experiments, and updates on my journey to build and launch rockets while sharpening my coding skills.&lt;/p&gt;
+&lt;h2 id=&#34;what-to-expect&#34;&gt;&lt;strong&gt;What to Expect:&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rocketry Adventures:&lt;/strong&gt; I am actively working on my rocket that is set to reach an apogee of 1km and hopefully be recovered without any damage. Here I will be sharing my updates and build process, and many more to come.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming Projects:&lt;/strong&gt; I am very much interested in programming, more like interested in creating simulation using programming. I will be sharing detailed posts on the projects I make here. &lt;a href=&#34;https://www.linkedin.com/in/tarun-kumar-s-676a74267/%22&#34;&gt;My LinkedIn&lt;/a&gt; for the projects I worked on.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Progress Updates:&lt;/strong&gt; Stay tuned for real-time updates on my experiments and achievements, and perhaps a few lessons learned along the way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;why-this-blog&#34;&gt;&lt;strong&gt;Why This Blog:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;I made this blog site to document and express myself. Here I will share all my updates that will be useful for some one or the other. And also I will have it as my memory so that I can have fun time reading all the work I did, while reading it in the future.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

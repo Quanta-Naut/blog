@@ -14,17 +14,10 @@
     <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://quanta-naut.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tag1</title>
-      <link>https://quanta-naut.github.io/tags/tag1/</link>
+      <title>FirstBlog</title>
+      <link>https://quanta-naut.github.io/tags/firstblog/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://quanta-naut.github.io/tags/tag1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag2</title>
-      <link>https://quanta-naut.github.io/tags/tag2/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://quanta-naut.github.io/tags/tag2/</guid>
+      <guid>https://quanta-naut.github.io/tags/firstblog/</guid>
       <description></description>
     </item>
   </channel>
