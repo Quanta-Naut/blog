@@ -1,5 +1,5 @@
-baseURL = "https://examplesite.com/"
-title = "QuantaBlogs"
+baseURL = "https://quanta-naut.github.io/"
+title = "QuantaQuill"
 paginate = 5
 theme = "PaperMod"
 
@@ -14,7 +14,7 @@ buildExpired = false
 
 [params]
   env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
-  title = "QuantaBlogs"
+  title = "QuantaQuill"
   description = "It's a blog post site for my projects!"
   keywords = ["Blog", "Portfolio", "PaperMod"]
   author = "Tarun"
@@ -50,7 +50,7 @@ buildExpired = false
     safari_pinned_tab = "<link / abs url>"
 
   [params.label]
-    text = "QuantaBlogs"
+    text = "QuantaQuill"
     icon = "/apple-touch-icon.png"
     iconHeight = 35
 
@@ -70,8 +70,8 @@ buildExpired = false
       url = "tags"
 
   [params.homeInfoParams]
-    Title = "Hi there 👋"
-    Content = "Welcome to my blog"
+    Title = "The Quantum Quill"
+    Content = "Welcome to Quantum Quill—a space where I share my journey through the exciting worlds of programming, engineering, and rocketry! Here, you'll find detailed updates on my projects, including building rockets from the ground up, exploring the wonders of space tech, and diving into the challenges of programming. Join me as I document my progress, share insights, and celebrate the joy of creating and innovating!"
 
   [[params.socialIcons]]
     name = "LinkedIn"

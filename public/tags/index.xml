@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on QuantaBlogs</title>
-    <link>https://examplesite.com/tags/</link>
-    <description>Recent content in Tags on QuantaBlogs</description>
+    <title>Tags on QuantaQuill</title>
+    <link>https://quanta-naut.github.io/tags/</link>
+    <description>Recent content in Tags on QuantaQuill</description>
     <image>
-      <title>QuantaBlogs</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>QuantaQuill</title>
+      <url>https://quanta-naut.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://quanta-naut.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://quanta-naut.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tag1</title>
-      <link>https://examplesite.com/tags/tag1/</link>
+      <link>https://quanta-naut.github.io/tags/tag1/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/tags/tag1/</guid>
+      <guid>https://quanta-naut.github.io/tags/tag1/</guid>
       <description></description>
     </item>
     <item>
       <title>Tag2</title>
-      <link>https://examplesite.com/tags/tag2/</link>
+      <link>https://quanta-naut.github.io/tags/tag2/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/tags/tag2/</guid>
+      <guid>https://quanta-naut.github.io/tags/tag2/</guid>
       <description></description>
     </item>
   </channel>
