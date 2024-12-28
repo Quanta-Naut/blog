@@ -7,7 +7,7 @@ tags:
   - JavaScript
 categories:
 ---
-!![Image Description](Thumbnail.png)
+![Image Description](Thumbnail.png)
 ### **Introduction: Exploring the Chaos of the Lorenz Attractor**
 Have you ever wondered how something as simple as a set of equations can create intricate and mesmerizing patterns? The Lorenz Attractor is a perfect example of this phenomenon—a beautiful yet chaotic system that has fascinated scientists, mathematicians, and hobbyists alike for decades.
 
@@ -46,26 +46,17 @@ As a Python developer with recent experience in creating simulations using C++, 
 The Lorenz Attractor simulation visualizes the chaotic behavior of a system of three differential equations in a three-dimensional space. Here's a step-by-step breakdown of how the simulation is implemented:
 1. **The Lorenz Equations**
 
-$$\Huge \frac{dx}{dt} = \sigma (y - x) $$
+![Image Description](equation.png)
+![Image Description](var.png)
 
-$$\Huge \frac{dy}{dt} = x (\rho - z) - y $$
 
-$$\Huge \frac{dz}{dt} = x y - \beta z $$
-
-Where:
--  $\large x, y, z$ represent the system state.
--  $\large \sigma, \rho, \beta$ are constants that determine the behavior of the system.
-- Common values are:
-  - $\large \sigma = 10$
-  - $\large \rho = 28$
-  - $\large \beta = \frac{8}{3}$.
-2. **Numerical Integration**
+1. **Numerical Integration**
 	Since these equations cannot be solved analytically, the simulation uses numerical methods to approximate the solution.
 	- The **Euler method** is applied to calculate the new state of the system at each time step: $$ \Huge x_{t+1}=x_t+Δt⋅ \frac{dx}{dt} $$​ 
 	Similar updates are applied for $\large y_t$​ and $\large z_t​$ .
 	
 	- A small time step $\large \Delta t$ ensures smooth and accurate trajectories.
-3. Visual Effects
+2. Visual Effects
 
 	To enhance the visual appeal of the Lorenz attractor simulation, the following visual effects were implemented:
 	
@@ -84,7 +75,7 @@ This `update()` function is responsible for calculating the next state of the Lo
 The function `update()` is part of a class that simulates the Lorenz attractor, and each time it is called, the position of the points is updated, moving the attractor to a new point. Since the Lorenz system is chaotic, even slight variations in the initial conditions (such as small changes in the values of x, y, or z) cause the system to behave drastically differently over time. This sensitivity to initial conditions leads to the simulation "messing up" or diverging, as even tiny changes in the starting point result in completely different trajectories. This is a common feature of chaotic systems like the Lorenz attractor, where small differences in input can lead to significant differences in the outcome.
 
 ### **Final Output**
-![[Timeline 1.mp4]]
+![Image Description](lorenz.mp4)
 
 ### **Conclusion**
 [LinkedIn](https://www.linkedin.com/posts/tarun-kumar-s-676a74267_programming-coding-softwareengineering-activity-7278391830298181634-pLnV?utm_source=share&utm_medium=member_desktop) [Instagram](https://www.instagram.com/reel/DEFUrMWB5Of/?utm_source=ig_web_copy_link) 

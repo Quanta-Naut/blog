@@ -18,7 +18,7 @@
       <link>https://quanta-naut.github.io/posts/simulation-of-lorenz-attractor-the-chaos-theory/</link>
       <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://quanta-naut.github.io/posts/simulation-of-lorenz-attractor-the-chaos-theory/</guid>
-      <description>&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;Thumbnail.png&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;Thumbnail.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;introduction-exploring-the-chaos-of-the-lorenz-attractor&#34;&gt;&lt;strong&gt;Introduction: Exploring the Chaos of the Lorenz Attractor&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Have you ever wondered how something as simple as a set of equations can create intricate and mesmerizing patterns? The Lorenz Attractor is a perfect example of this phenomenon—a beautiful yet chaotic system that has fascinated scientists, mathematicians, and hobbyists alike for decades.&lt;/p&gt;
 &lt;p&gt;Originally derived by Edward Lorenz in 1963 while studying atmospheric convection, the Lorenz Attractor is a set of three differential equations that exhibit chaotic behavior under certain conditions. It’s often cited as a classic example of chaos theory, illustrating how small changes in initial conditions can lead to wildly different outcomes—popularly referred to as the &amp;ldquo;butterfly effect.&amp;rdquo;&lt;/p&gt;</description>
