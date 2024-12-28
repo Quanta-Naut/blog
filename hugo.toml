@@ -12,7 +12,14 @@ buildExpired = false
   disableXML = true
   minifyOutput = true
 
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
+  mathjax = true
   env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
   title = "QuantaQuill"
   description = "It's a blog post site for my projects!"
