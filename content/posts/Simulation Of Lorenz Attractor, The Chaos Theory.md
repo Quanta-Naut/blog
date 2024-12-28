@@ -7,7 +7,7 @@ tags:
   - JavaScript
 categories:
 ---
-![[Thumbnail.png]]
+!![Image Description](/images/Thumbnail.png)
 ### **Introduction: Exploring the Chaos of the Lorenz Attractor**
 Have you ever wondered how something as simple as a set of equations can create intricate and mesmerizing patterns? The Lorenz Attractor is a perfect example of this phenomenon—a beautiful yet chaotic system that has fascinated scientists, mathematicians, and hobbyists alike for decades.
 
@@ -75,12 +75,12 @@ Where:
 	    
 	- **Smoothing and Glow Effect**: Older points fade out gradually, giving the effect of a "living" attractor. Additionally, a glow effect was added using Gaussian blur, implemented in Python. This blur effect softens the edges of the attractor’s path, creating a smooth, ethereal glow that enhances the aesthetic appeal.
 	
-	- In simulation each point is given a new color and we get gradient.![[code1.png]]
+	- In simulation each point is given a new color and we get gradient.!![Image Description](/images/code1.png)
 	
-	- Use of python - OpenCV to Gaussian Blur to the frames of the simulation![[code.png]]
+	- Use of python - OpenCV to Gaussian Blur to the frames of the simulation!![Image Description](/images/code.png)
 
 ### **The Code**
-This `update()` function is responsible for calculating the next state of the Lorenz system, updating the attractor's coordinates, and managing the visual trail by storing the points that represent the attractor's path. The use of differential equations and the point-keeping logic creates the evolving, chaotic trajectory that characterizes the Lorenz attractor.![[code2.png]]
+This `update()` function is responsible for calculating the next state of the Lorenz system, updating the attractor's coordinates, and managing the visual trail by storing the points that represent the attractor's path. The use of differential equations and the point-keeping logic creates the evolving, chaotic trajectory that characterizes the Lorenz attractor.!![Image Description](/images/code2.png)
 The function `update()` is part of a class that simulates the Lorenz attractor, and each time it is called, the position of the points is updated, moving the attractor to a new point. Since the Lorenz system is chaotic, even slight variations in the initial conditions (such as small changes in the values of x, y, or z) cause the system to behave drastically differently over time. This sensitivity to initial conditions leads to the simulation "messing up" or diverging, as even tiny changes in the starting point result in completely different trajectories. This is a common feature of chaotic systems like the Lorenz attractor, where small differences in input can lead to significant differences in the outcome.
 
 ### **Final Output**
