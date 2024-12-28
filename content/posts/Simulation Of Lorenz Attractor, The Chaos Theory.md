@@ -75,7 +75,7 @@ This `update()` function is responsible for calculating the next state of the Lo
 The function `update()` is part of a class that simulates the Lorenz attractor, and each time it is called, the position of the points is updated, moving the attractor to a new point. Since the Lorenz system is chaotic, even slight variations in the initial conditions (such as small changes in the values of x, y, or z) cause the system to behave drastically differently over time. This sensitivity to initial conditions leads to the simulation "messing up" or diverging, as even tiny changes in the starting point result in completely different trajectories. This is a common feature of chaotic systems like the Lorenz attractor, where small differences in input can lead to significant differences in the outcome.
 
 ### **Final Output**
-![Image Description](lorenz.mp4)
+{{< videoadd src="lorenz.mp4">}}
 
 ### **Conclusion**
 [LinkedIn](https://www.linkedin.com/posts/tarun-kumar-s-676a74267_programming-coding-softwareengineering-activity-7278391830298181634-pLnV?utm_source=share&utm_medium=member_desktop) [Instagram](https://www.instagram.com/reel/DEFUrMWB5Of/?utm_source=ig_web_copy_link) 
