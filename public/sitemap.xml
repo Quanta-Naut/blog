@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://quanta-naut.github.io/tags/javascript/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quanta-naut.github.io/posts/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quanta-naut.github.io/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quanta-naut.github.io/tags/simulation/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quanta-naut.github.io/posts/simulation-of-lorenz-attractor-the-chaos-theory./</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quanta-naut.github.io/tags/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://quanta-naut.github.io/tags/firstblog/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quanta-naut.github.io/posts/my-first-blog/</loc>
-    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quanta-naut.github.io/posts/</loc>
-    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quanta-naut.github.io/</loc>
-    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quanta-naut.github.io/tags/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quanta-naut.github.io/categories/</loc>
